@@ -8,7 +8,7 @@
 
   Potato Twist is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://keviny-hub.github.io/Potato-Twist-Web/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
